@@ -1,7 +1,7 @@
 {
   "name": "contact-app",
   "version": "0.1.0",
-  "homepage": "https://singh-himanshu-16.github.io/React_CA3_Project",
+  "homepage": "https://singh-himanshu-16.github.io/React_3rd_Project",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
